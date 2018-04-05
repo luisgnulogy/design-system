@@ -4,6 +4,7 @@
   --colour_blue1: #0E77D2;
   --colour_blue2: #1C68A5;
   --colour_yellow: #F0B41C;
+  --colour_mint: #1BDFB3;
 }
 
 html {
@@ -63,7 +64,7 @@ a:hover {
 }
 
 .billboard__subheading {
-  color: var(--colour_yellow);
+  color: var(--colour_mint);
   font-size: 2.62rem;
   font-weight: normal;
   line-height: 3rem;
